@@ -1,0 +1,17 @@
+environment:
+  name: demoenv
+  identifier: demoenv
+  orgIdentifier: default
+  projectIdentifier: default_project
+  description: ""
+  tags: {}
+  type: PreProduction
+  yaml: |
+    environment:
+      name: demoenv
+      identifier: demoenv
+      orgIdentifier: default
+      projectIdentifier: default_project
+      description: ""
+      tags: {}
+      type: ""
