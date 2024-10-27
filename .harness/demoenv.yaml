@@ -1,0 +1,6 @@
+environment:
+  name: demo-env
+  identifier: demoenv
+  orgIdentifier: default
+  projectIdentifier: default_project
+  type: PreProduction
